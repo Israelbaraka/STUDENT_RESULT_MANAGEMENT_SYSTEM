@@ -1,0 +1,2 @@
+# STUDENT_RESULT_MANAGEMENT_SYSTEM
+ It is a grading system
