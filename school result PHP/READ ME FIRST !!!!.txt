@@ -1,10 +1,29 @@
+Project Name: STUDENT GRADING SYSTEM / student Result Management System
 
+How to run this Project
 
-                   ADMIN username = admin
-                         password = Test@123
+1. Download and Unzip file on your local system copy srms folder.
 
+2. Put srms folder inside root directory
 
-Roll id–10861
+Database Configuration
 
-DON'T FORGET TO CREATE A DATABASE  AND IMPORT THE SQL FILE AND RUN.
-WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+Open phpmyadmin
+Create Database srms
+Import database srms.sql (available inside zip package)
+
+For User
+
+Open Your browser put inside browser http://localhost/srms
+
+*********************Details of student**********************
+
+Student name-- code project
+Roll id--10861
+Student Class: Fourth(C)
+
+********************For Admin Panel************************
+
+Open Your browser put inside browser http://localhost/srms
+Username : admin
+Password : Test@123
